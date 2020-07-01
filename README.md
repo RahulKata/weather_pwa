@@ -2,7 +2,7 @@
 
 Simple React.js Web App using <a href="https://openweathermap.org/" target="_blank" style="text-decoration:none;">openweathermap<a> API.
 
-<img src="weather.gif" alt="HSR" height="400" width="800">
+<img src="weather.gif" alt="Weather PWA">
 <hr>
 
 Fork/download the code and follow along =>
