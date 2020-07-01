@@ -1,6 +1,6 @@
 ## Progressive Weather Web-App  
 
-In the project directory, you can run:
+Inspired by [Adrian Hajdin](https://github.com/adrianhajdin/project_weather_pwa)
 
 ### `npm start`
 
