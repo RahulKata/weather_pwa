@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta name="description" content="PWA Weather React app" />
-    <link rel="icon" href="./icon.png" />
+    <link rel="icon" type="image/png" href="./icon.png" />
+    <link rel="apple-touch-icon" href="./logo.png" />
+    <link rel="manifest" href="./manifest.json" />
     <title>Weather PWA</title>
   </head>
   <body>
@@ -17,7 +19,7 @@
           navigator.serviceWorker
             .register("./serviceworker.js")
             .then((reg) => console.log("Success: ", reg.scope))
-            .catch((err) => console.log("Failure: ", err));
+            .catch((err) => console.log(`Service Worker Error: ${err}`));
         });
       }
     </script>
