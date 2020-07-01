@@ -6,9 +6,10 @@ Simple React.js Web App using <a href="https://openweathermap.org/" target="_bla
 
 
 
-Inspired by <a href="https://github.com/adrianhajdin/project_weather_pwa" target="_blank">Adrian Hajdin</a>. Fork/download the code and follow along
+Fork/download the code and follow along =>
 
-#### `npm install` 
+- #### `npm install` 
 
-#### `npm start`
+- #### `npm start`
 
+> Inspired by <a href="https://github.com/adrianhajdin/project_weather_pwa" target="_blank">Adrian Hajdin</a>.
