@@ -19,7 +19,7 @@
           navigator.serviceWorker
             .register("./serviceworker.js")
             .then((reg) => console.log("Success: ", reg.scope))
-            .catch((err) => console.log(`Service Worker Error: ${err}`));
+            .catch((err) => console.log("Failure: ", err));
         });
       }
     </script>
