@@ -10,9 +10,9 @@ body,
 
 .main-container {
   background: linear-gradient(
-      rgb(255, 153, 51, 0.3),
+      rgb(255, 153, 51, 0.2),
       rgb(255, 255, 255, 0.1),
-      rgb(19, 136, 8, 0.3)
+      rgb(19, 136, 8, 0.2)
     ),
     url("https://source.unsplash.com/1600x900/?weather,india");
   background-size: cover;
